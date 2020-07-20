@@ -14,6 +14,7 @@ public class Main {
                 LocalDateTime.of(2001, 3, 19, 8, 30),
                 LocalDateTime.of(2001, 3, 21, 8, 30 ),
                 LocalDateTime.of(1996, 6, 26, 10, 15),
+                LocalDateTime.of(2005, 8, 30, 17, 18),
                 LocalDateTime.of(2023, 1, 2, 17, 23));
         GroupAndSortDates.groupAndSortDates(dateTimeList);
 
